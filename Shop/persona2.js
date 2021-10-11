@@ -17,6 +17,7 @@ function test() {
        document.getElementById("nombretxt2").value = apellido;
        console.log(nombre)
        console.log(nombre)
+       console.log(nombre)
       
    }
     /*Mostrar datos almacenados*/      
